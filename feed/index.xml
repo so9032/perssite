@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Babysitting Phuket</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://www.sophiaarwae.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.sophiaarwae.com</link>
 	<description>Babysitting Patong and Phuket by Sophia</description>
 	<lastBuildDate>Tue, 31 May 2022 16:41:44 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/05/HomePage-OurPrograms-Icon_2.svg</url>
+	<url>https://www.sophiaarwae.com/wp-content/uploads/2022/05/HomePage-OurPrograms-Icon_2.svg</url>
 	<title>Babysitting Phuket</title>
-	<link></link>
+	<link>https://www.sophiaarwae.com</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>/2022/05/31/hello-world/</link>
-					<comments>/2022/05/31/hello-world/#comments</comments>
+		<link>https://www.sophiaarwae.com/2022/05/31/hello-world/</link>
+					<comments>https://www.sophiaarwae.com/2022/05/31/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[so9032]]></dc:creator>
 		<pubDate>Tue, 31 May 2022 16:41:44 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://www.sophiaarwae.com/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/05/31/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.sophiaarwae.com/2022/05/31/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
