@@ -37,9 +37,12 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://www.sophiaarwae.com/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="https://www.sophiaarwae.com/2022/05/31/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="https://www.sophiaarwae.com">Babysitting Phuket</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="https://www.sophiaarwae.com/2022/05/31/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="https://www.sophiaarwae.com">Babysitting Phuket</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.sophiaarwae.com/2022/05/31/hello-world/feed/</wfw:commentRss>
